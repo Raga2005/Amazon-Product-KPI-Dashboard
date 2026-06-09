@@ -97,5 +97,3 @@ This dashboard helps users understand product performance, customer preferences,
 B.Tech Artificial Intelligence and Data Science
 SNS College of Engineering
 
-LinkedIn: Add Your LinkedIn Profile Link
-GitHub: Add Your GitHub Profile Link
